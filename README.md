@@ -3,11 +3,7 @@ Hi, I'm Gabriel. I'm a forth year student at Universidad de Costa Rica. I like t
 
 ## Current Projects
 
- I'm working in an REST API using C#. Also, using that API, I'm building an invoicing native app using MAUI Blazor Hybrid and a ecommerce webpage using NextJs.
-
-## Currently Learning
-
- I am currently learning MAUI Blazor Hybrid to build native apps using C# and Blazor. Also, I'm learning NextJs to build web applications using React and TypeScript.
+ I'm working on a NextJS ecommerce app consuming an inventory and POS API.
 
 
 ## 🌐 Socials:
